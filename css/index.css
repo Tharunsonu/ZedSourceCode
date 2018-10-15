@@ -1,0 +1,134 @@
+/*Copyright 2018 CompoundCode
+
+	You are permited to alter this programme provided that you leave this statement unchanged.
+	#This code was written, designed and maitained by mwanza J. Blessed
+	#email: Mwanzabj@gmail.com
+	#cell: +260-971-943-638 
+	#facebook: www.facebook.com/blessedjasonmwanza 
+	#git: www.github.com/blessedjasonmwanza
+	#you are permited to copy or change any of the contents of this code/programm by law!
+	#please contact the owner for permission
+
+	##
+	Find this project here::: https://github.com/blessedjasonmwanza/ZedSourceCode*/
+html{
+	overflow-x: hidden;
+	background-color: #181819;
+	background:#181819;
+	color: #fff;
+}
+body{
+	overflow-x: hidden;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+header{
+	display:flex;
+	width: 100%;
+	height: inherit;
+	color: #fff;
+	background-color: #202026;
+
+}
+header img{
+display: inline-flex;
+width: 50px;
+height: 50px;
+border-radius: 50%;
+border:0px solid transparent;
+}
+header nav{ 
+	display: block;
+	width: 100%;
+	border:0px solid transparent;
+	height: 50px;
+	line-height: 50px;
+}
+header nav a{
+	text-decoration: none;
+	color:#fff;
+	padding-left: 20px;
+}
+header nav a:focus{
+	color: red;
+}
+header nav a:hover{
+	color: #0b4f7f;
+}
+body, html{
+	height: 100%;
+	overflow-y: hidden;
+	font-family: 'Cambria Math', 'Cambria';
+	color: #fff;
+}
+main{
+	display: block;
+	width: 100%;
+	margin: 0px;
+	background: url(../c.jpg);
+	background-size: cover;
+	height: 100%;
+}
+
+main form{
+	display: block;
+	width: 800px;
+	margin:  0 auto;
+	border:0px solid #fcfcfc;
+	height: 100%;
+	padding: 5px;
+	border-radius: 4px;
+
+}
+main form input{
+	display: inline-block;
+	width: 100%;
+	margin-top: 50px;
+	background-color: rgba(95, 95, 104, 0.2);
+	border:0px solid transparent;
+	border-radius: 4px;
+	height: 35px;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	color: rgba(65, 65, 71, 0.9);
+	box-shadow: 0px 1px 2px 0px;
+
+}
+main form input:focus{
+	color:#f4fBfc;
+}
+main form input:hover{
+	color: #0b4f7f
+}
+
+main form button{
+	display: block;
+	width:100px;
+	border:0px solid transparent;
+	background-color: #0b4f7f;
+	margin: 0 auto;
+	line-height: 25px;
+	height: 25px;
+	color: #cfcfcc;
+	cursor: pointer;
+	border-radius: 8px;
+	transition: all;
+	transition-duration: 0.8s;
+	transition-delay: 0.2s;
+	transition-timing-function: ease-out;
+	transition-property: border-radius, pointer;
+
+}
+main form button:hover{
+	background-color: dodgerblue;
+	border-radius: 2px;
+	font-weight: bold;
+	transition: all;
+	color:#fff;
+	transition-duration: 0.8s;
+	transition-delay: 0.2s;
+	transition-timing-function: ease-out;
+	transition-property: border-radius, background-color, color;
+}
