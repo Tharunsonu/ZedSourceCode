@@ -22,7 +22,7 @@ The reason why we are trying to avoid Js is because the Tor browser is mostly se
 1.2-> Login Panel ** Need a designer**
 1.3-> ** When the landing page is done which should consist of only a login panel... the next task will be posted....
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-#####NB:: More commits and contributions you'll make/add to the project the high level of Administration are to be given in the project. 
+#####NB:: More commits and contributions you'll make/add to the project, the higher the level of Administration you're are to be given in the project. 
 
 
 ##HAPPY CODING EVERYONE />
