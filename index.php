@@ -27,12 +27,12 @@ find_server();
 	<link rel="stylesheet" type="text/css" href="css/index.css">
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-	<link rel="shortcut icon" href="logo.jpg" />
+	<link rel="shortcut icon" href="img/logo.jpg" />
 </head>
 <body>
 <center>
 	<header>
-		<img src="logo.jpg" alt="ZcS" title="Zed Source Code"> <code> 12:23 - 13/may/2018</code>
+		<img src="img/logo.jpg" alt="ZcS" title="Zed Source Code"> <code> 12:23 - 13/may/2018</code>
 		<nav>
 			<a href="#"><i class="fa fa-home" title="Home" alt="Home"></i></a>
 			<a href="#"> <i class="fa fa-comments"  title="Chart" alt="Chart"></i> </a>
